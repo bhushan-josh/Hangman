@@ -115,3 +115,4 @@ end
 system("clear")
 game = Hangman.new
 game.play
+
